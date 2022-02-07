@@ -1,9 +1,9 @@
 package main
 
 import (
-	"Project1/wordfreq"
 	"bufio"
 	"fmt"
+	"github.com/ScriptoPhage/Project1/wordfreq"
 	"os"
 )
 

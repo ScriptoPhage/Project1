@@ -1,3 +1,2 @@
-module Project1
-
+module github.com/ScriptoPhage/Project1
 go 1.18
